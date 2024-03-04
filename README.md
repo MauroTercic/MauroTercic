@@ -26,11 +26,10 @@
     </div>
 <h5>IDEs<h5>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Pycharm?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
     
 <h3>Estudios</h3>
-    <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End y mientras realizaba el curso de React.js de CoderHouse en paralelo tambien realize el bootcamp de desarrollador Full Stack de SoyHenry.</p>
+    <p>Estudio ciencia política en la UBA mientras realice mis estudios sobre programación por mi cuenta. Hice un curso de data science en Udemy y otro en conjunto con la Universidad Tecnológica Nacional.</p>
 
 <h5>Proyectos<h5>
     
