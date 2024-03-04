@@ -1,9 +1,9 @@
 <div id="header" align="center">
-    <h1>Hola, soy Leandro Florentín👋</h1>
+    <h1>Hola, soy Mauro Tercic👋</h1>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/leandro-florentin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://www.codewars.com/users/LeandroFlorent%C3%ADn"><img src="https://img.shields.io/badge/-CodeWars-121216?style=for-the-badge&logo=CodeWars&logoColor=red"/> </a>
+<a href="https://www.linkedin.com/in/mauro-tercic-24784b216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.codewars.com/users/MauroTercic"><img src="https://img.shields.io/badge/-CodeWars-121216?style=for-the-badge&logo=CodeWars&logoColor=red"/> </a>
 <a href="mailto:leandro.florentin@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 <div>
