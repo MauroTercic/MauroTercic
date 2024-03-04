@@ -4,11 +4,11 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mauro-tercic-24784b216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://www.codewars.com/users/MauroTercic"><img src="https://img.shields.io/badge/-CodeWars-121216?style=for-the-badge&logo=CodeWars&logoColor=red"/> </a>
-<a href="mailto:leandro.florentin@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:maurotercic01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 <div>
     <h3>Sobre mi</h3>
-        <p>Soy un desarrolador Full Stack, egresado tanto del bootcamp de SoyHenry de desarrollador Full Stack, como de la carrera de desarrollador Front End de CoderHouse.</p>
+        <p>Soy un desarrollador especializado en web dev utilizando la herramienta Django, y data science con una certificación de Udemy y la UTN.</p>
 </div>
     <h5>Habilidades técnicas</h5>
     <div>
