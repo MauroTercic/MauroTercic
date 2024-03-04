@@ -13,21 +13,15 @@
     <h5>Habilidades técnicas</h5>
     <div>
         <img src='https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white' alt='React'/>
-        <img alt="redux" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=redux&logoColor=yellow" />
-        <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-        <img alt="express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img alt="sequelize" src="https://img.shields.io/badge/-Sequelize-039be5?style=flat-square&logo=sequelize&logoColor=0a497b" />
+        <img alt="redux" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img alt="Nodejs" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+        <img alt="sequelize" src="https://img.shields.io/badge/-SQLite-039be5?style=flat-square&logo=sequelize&logoColor=0a497b" />
         <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-039be5?style=flat-square&logo=postgresql&logoColor=0a497b" />
-        <img alt="javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />     
     </div>
     <div>
-        <img alt="firebase" src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white" />
         <img alt="github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
-        <img alt="material" src="https://img.shields.io/badge/-MaterialUI-blue?style=flat-square&logo=material&logoColor=white" />
         <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-4c2882?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img alt="saas" src="https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass&logoColor=white" />
-        <img alt="css" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" />
         <img alt="html" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white" />    
     </div>
 <h5>IDEs<h5>
