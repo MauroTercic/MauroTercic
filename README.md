@@ -26,6 +26,8 @@
     </div>
 <h5>IDEs<h5>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pycharm?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
     
 <h3>Estudios</h3>
     <p>Comence mis estudios en CoderHouse con su carrera de Desarrollador Front End y mientras realizaba el curso de React.js de CoderHouse en paralelo tambien realize el bootcamp de desarrollador Full Stack de SoyHenry.</p>
