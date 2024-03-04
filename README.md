@@ -32,23 +32,12 @@
     <p>Estudio ciencia política en la UBA mientras realice mis estudios sobre programación por mi cuenta. Hice un curso de data science en Udemy y otro en conjunto con la Universidad Tecnológica Nacional.</p>
 
 <h5>Proyectos<h5>
-    
+ <!--   
    <label>Por ultimo mi portafolio, en donde podras tener un mayor acercamiento a mi y mis habilidades.</label></br>
-   <a href="https://portafolio-leandro-florentin.vercel.app/" target='_blank'>Ver portafolio</a></br>
+   <a href="https://portafolio-leandro-florentin.vercel.app/" target='_blank'>Ver portafolio</a></br> -->
+
+
     
-   <label>El proyecto individual es una app de juegos en donde vas a poder encontrar tus juegos favoritos mediante multiples filtros y en caso de no gustarte ninguno   podras crear el tuyo.</label></br>
-   <a href="https://frontjuegos.vercel.app/" target='_blank'>Ver proyecto individual Henry</a></br>
-   
-   <label>En este proyecto vas a poder encontrar un listado de personajes de LOL, podras agregarlos a favoritos y filtrarlos.</label></br>
-   <a href="https://front-lol.vercel.app/" target='_blank'>Ver proyecto League of legends</a></br>
-   
-   <label>Este proyecto es una simulacion de una pagina de venta de televisores LG.</label></br>
-   <a href="https://proyecto-lg-rang.vercel.app/" target='_blank'>Ver proyecto LG CoderHouse</a></br>
-   
-   <label>El proyecto GitHub, en donde podras buscar perfiles de GitHub mediante el consumo de una API.</label></br>
-   <a href="https://github-proyect-ten.vercel.app/" target='_blank'>Ver proyecto GitHub</a></br>
-
-
 
 
 <h5>Contacto<h5>
