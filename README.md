@@ -13,7 +13,7 @@
     <h5>Habilidades técnicas</h5>
     <div>
         <img src='https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white' alt='React'/>
-        <img alt="redux" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img alt="redux" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=redux&logoColor=yellow" />
         <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
         <img alt="express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img alt="sequelize" src="https://img.shields.io/badge/-Sequelize-039be5?style=flat-square&logo=sequelize&logoColor=0a497b" />
