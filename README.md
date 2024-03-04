@@ -49,19 +49,13 @@
    <a href="https://github-proyect-ten.vercel.app/" target='_blank'>Ver proyecto GitHub</a></br>
 
 
-<h3>Futuros intereses tecnológicos</h3>
-<div>
-    <img src="https://img.icons8.com/color/512/nestjs.png" width="30px" height="30px"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" width="30px" height="30px"/>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_vue_icon_130078.png" width="30px" height="30px"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" width="30px" height="30px"/>
-</div>
+
 
 <h5>Contacto<h5>
 <p>Para contactarme dejo los siguientes medios, tengan total confianza en contactarme, siempre intentare responder todos los mensajes.</p>
 
     
 <ul>
-   <li><a href="https://www.linkedin.com/in/leandro-florentin/">Linkedin</a></li>
-   <li><a href="mailto:leandro.florentin@hotmail.com">Correo</a></li>
+   <li><a href="https://www.linkedin.com/in/mauro-tercic-24784b216/">Linkedin</a></li>
+   <li><a href="mailto:maurotercic01@gmail.com">Correo</a></li>
 </ul>
